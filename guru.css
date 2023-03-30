@@ -1,0 +1,70 @@
+h1{
+	color:blue;
+	margin-top: 50px;
+	margin-right: 500px;
+	margin-left: 400px;
+}
+.box {
+	display: flex;
+	justify-content: space-between;
+}
+.c1{
+	color: white ;
+	width: 20%;
+	margin-left:50px;
+	border-radius: 2px;
+	border: 1px red solid;
+	
+}
+.c2{
+	color: white ;
+	width: 20%;
+	margin-left:50px;
+	border-radius: 2px;
+	border: 1px red solid;
+}
+.c3{
+	color: gold;
+	width: 20%;
+	margin-right:50px;
+	border-radius: 2px;
+}
+.container
+{
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2A40aLJmM6pl3oiVGD7Gj9et8YJ_ekpsAmt8WnAYCVQ&usqp=CAU&ec=48665698");
+	background-size: 120%;
+	background-repeat: no-repeat;
+
+}
+.a1{
+	color: red;
+	width: 20%;
+	margin-left:900px;
+	
+	
+	
+	
+}
+.a2
+{
+	color: red ;
+	width: 20%;
+	margin-left:900px;
+	
+	
+	
+}
+.a3
+{
+	color: red;
+	width: 20%;
+	margin-left:900px;
+}
+.a4
+{
+	
+	color: red;
+	width: 20%;
+	margin-left:900px;
+}
+}
